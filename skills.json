@@ -1,0 +1,82 @@
+[
+    {
+        "name": "MS-Excel",
+        "icon": "https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/48/000000/tableau-software.png"
+    },
+    {
+        "name": "MS-Powerpoint",
+        "icon": "https://img.icons8.com/color/48/000000/powerpoint.png"
+    },
+    {
+        "name": "R Language",
+        "icon": "https://img.icons8.com/fluency/48/000000/language-skill.png"
+    },
+    {
+        "name": "MS-Word",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png"
+    },
+    {
+        "name": "Google-Sheets",
+        "icon": "https://img.icons8.com/fluency/48/000000/google-sheets.png"
+    },
+    {
+        "name": "Streamlit",
+        "icon": "https://img.icons8.com/fluency/48/000000/deployment.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "Final Cut Pro",
+        "icon": "https://img.icons8.com/color/48/000000/final-cut-pro-x.png"
+    },
+    {
+        "name": "Adobe Lightroom",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Statistics",
+        "icon": "https://img.icons8.com/bubbles/50/000000/statistics.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }    
+]
