@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Machine Learning Algorithms",
+    "desc": "This contains Machine Learning Algorithms",
+    "image": "notystackandroid",
+    "category": "Algorithims ",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/data-science-assignments"
+    }
+  },
+  {
+    "name": "Practices codes",
+    "desc": "This contains some codes for EDA , Model Visualization , Project Deployment .",
+    "image": "sppuprepandroid",
+    "category": "Codes",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/data-science-practice-codes"
+    }
+  },
+  {
+    "name": "Energy prediction project",
+    "desc": "we have to predict the energy production using regression models code in  python ",
+    "image": "newsboxandroid",
+    "category": "Python Projects",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/Energy-prediction-project"
+    }
+  },
+  {
+    "name": "Hotel Rating Review",
+    "desc": "we have to give the prediction of Hotels using Classification Model with NLP coded in python ",
+    "image": "weatherlyandroid",
+    "category": "Python Projects",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/Hotel-Rating-Review--project"
+    }
+  },
+  {
+    "name": "AWS Services",
+    "desc": "In this i have explained all the AWS services in detailed  ",
+    "image": "instagrammern",
+    "category": "AWS",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/AWS-SERVICES-EXPLAINED-IN-DETAIL"
+    }
+  },
+  {
+    "name": "Kaggle Projects",
+    "desc": "  ",
+    "image": "instagrammern",
+    "category": "Kaggle",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/Kaggle-projects"
+    }
+  },
+]
