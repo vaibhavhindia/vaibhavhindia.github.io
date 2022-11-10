@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Data Science Assignments",
+    "desc": "This contains Machine Learning Algorithms",
+    "image": "datascienceassignments",
+    "category": "Algorithims ",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/data-science-assignments"
+    }
+  },
+  {
+    "name": "Practices codes",
+    "desc": "This contains some codes for EDA , Model Visualization , Project Deployment .",
+    "image": "datasciencepracticecodes",
+    "category": "Codes",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/data-science-practice-codes"
+    }
+  },
+  {
+    "name": "Energy prediction project",
+    "desc": "we have to predict the energy production using regression models code in  python ",
+    "image": "project2",
+    "category": "Python Projects",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/Energy-prediction-project"
+    }
+  },
+  {
+    "name": "Hotel Rating Review",
+    "desc": "we have to give the prediction of Hotels using Classification Model with NLP coded in python ",
+    "image": "project1",
+    "category": "Python Projects",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/Hotel-Rating-Review--project"
+    }
+  },
+  {
+    "name": "AWS Services",
+    "desc": "In this i have explained all the AWS services in detailed  ",
+    "image": "awsservices",
+    "category": "AWS",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/AWS-SERVICES-EXPLAINED-IN-DETAIL"
+    }
+  },
+  {
+    "name": "AWS project 1",
+    "desc": "In this i have explained all the AWS project 1  in detailed  ",
+    "image": "awsproject1",
+    "category": "AWS",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/AWS-project-1-"
+    }
+  },
+  {
+    "name": "AWS project 2 ",
+    "desc": "In this i have explained all the AWS services in detailed  ",
+    "image": "awsservices",
+    "category": "AWS",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/AWS-project-1-"
+    }
+  },
+  {
+    "name": "AWS Courses",
+    "desc": " This contains AWS tutorials of Skill Builder & AWS-Training-and-Certifications courses ",
+    "image": "awscourses",
+    "category": "AWS",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/AWS-Training-and-Certifications"
+    }
+  },
+  {
+    "name": "Kaggle Courses",
+    "desc": "kaggle courses and tutorials to get you started in the Data Science world. ",
+    "image": "kagglecourses",
+    "category": "Kaggle",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/kaggle-courses-"
+    }
+  },
+  {
+    "name": "Data Science Material",
+    "desc": " This contains my notes, CheatSheets & References. ",
+    "image": "datasciencematerial",
+    "category": "data Science",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/Data-Science-Material-"
+    }
+  },
+  {
+    "name": "Data Scientist",
+    "desc": " Roadmap to get you started in the Data Science world. ",
+    "image": "datascienceroadmap",
+    "category": "Data Science",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/Data-Scientist-"
+    }
+  },
+  {
+    "name": "SQL",
+    "desc": " This contains my Assignments, notes , codes , & Projects .",
+    "image": "sql",
+    "category": "sql",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/SQL"
+    }
+  },
+  {
+    "name": "Tableau",
+    "desc": " This contains my Assignments, notes , codes , & Projects   ",
+    "image": "tableau",
+    "category": "Tableau",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/Tableau"
+    }
+  },
+  {
+    "name": "MongoDB Courses",
+    "desc": "This contains my notes & References / Details for all the  MongoDB-University Provides ",
+    "image": "mongodb",
+    "category": "MongoDB",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/MongoDB-University"
+    }
+  },
+  {
+    "name": "R Language",
+    "desc": "This contains the basic R programming files , Project & Assignments.",
+    "image": "Rprogramminglanguage",
+    "category": "R Language",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/R-language-"
+    }
+  },
+  {
+    "name": "portfolio Website",
+    "desc": "This is my portfolio Website  ",
+    "image": "portfolio1",
+    "category": "Portfolio Website",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/vaibhavhindia_portfolio-website"
+    }
+  },
+  {
+    "name": "Kaggle Projects",
+    "desc": " This contains Kaggle Projects ",
+    "image": "kaggleprojects",
+    "category": "Kaggle",
+    "links": {
+      "view": "https://www.linkedin.com/vaibhav-hindia",
+      "code": "https://github.com/vaibhavhindia/Kaggle-projects"
+    }
+  },
+]
